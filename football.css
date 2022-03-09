@@ -18,6 +18,12 @@
 font-size: 50px;
 
 }
+.banner-content:hover 
+{
+
+    transform: scale(0.4) rotate(30deg);
+    transition: transfrom 8s ease-in-out;
+}
 
 .head1
 {
@@ -276,4 +282,6 @@ display: flex;
 
 
  }
+ 
+
  
